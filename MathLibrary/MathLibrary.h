@@ -2,7 +2,7 @@
 
 namespace MathLibrary
 {
-	class Arithmetric
+	class Arithmetic
 	{
 	public:
 		//	returns a+b
